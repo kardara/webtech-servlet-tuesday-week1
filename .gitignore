@@ -1,0 +1,14 @@
+# Eclipse / IDE
+.metadata/
+Servers/
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+build/
+target/
+
+# Other
+*.class
