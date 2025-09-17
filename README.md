@@ -135,4 +135,4 @@ Your favorite number 27 is odd.
 
 ### 📅 Deadline
 
-**Due in 3 days – Thursday at 1:00 AM (just after midnight).**
+**Due in 3 days – Friday before Sabbath.**
