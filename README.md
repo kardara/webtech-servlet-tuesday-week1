@@ -136,3 +136,13 @@ Your favorite number 27 is odd.
 ### 📅 Deadline
 
 **Due in 3 days – Friday before Sabbath.**
+**Submission Guidelines** :
+
+1. Push your code to GitHub .
+2. Ensure your repository is private . ( Any public repository will automatically receive a score of 0 ).
+3. Add us as collaborators:
+
+- My GitHub username : kardara
+- Teacher Patrick’s username : <dushimimanapatrick@gmail.com>
+
+***A link to submit your repo link will be provided**
