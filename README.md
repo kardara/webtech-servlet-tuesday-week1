@@ -136,6 +136,7 @@ Your favorite number 27 is odd.
 ### 📅 Deadline
 
 **Due in 3 days – Friday before Sabbath.**
+
 **Submission Guidelines** :
 
 1. Push your code to GitHub .
@@ -145,4 +146,4 @@ Your favorite number 27 is odd.
 - My GitHub username : kardara
 - Teacher Patrick’s username : <dushimimanapatrick@gmail.com>
 
-***A link to submit your repo link will be provided**
+**A link to submit your repo link will be provided**
